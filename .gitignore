@@ -1,0 +1,5 @@
+data/
+fhvhv/
+*.parquet
+.ipynb_checkpoints/
+uv.lock
